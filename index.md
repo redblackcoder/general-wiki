@@ -4,6 +4,10 @@
 
 _(categories emerge organically as content is ingested)_
 
+## Reading List
+
+- [[reading-list]] — Curated queue of resources to read: LLM inference, Redis pub/sub fan-out, Kafka & stream processing, Raft & Kubernetes leader election, algorithms
+
 ## Recent Pages
 
 _(filled as pages are created)_
